@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1cc27e62.chunk.css",
+    "main.js": "/static/js/main.cab02ed3.chunk.js",
+    "main.js.map": "/static/js/main.cab02ed3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c37f22f4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c37f22f4.js.map",
+    "static/js/2.6dbb14c9.chunk.js": "/static/js/2.6dbb14c9.chunk.js",
+    "static/js/2.6dbb14c9.chunk.js.map": "/static/js/2.6dbb14c9.chunk.js.map",
+    "static/js/3.072ffb85.chunk.js": "/static/js/3.072ffb85.chunk.js",
+    "static/js/3.072ffb85.chunk.js.map": "/static/js/3.072ffb85.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1cc27e62.chunk.css.map": "/static/css/main.1cc27e62.chunk.css.map",
+    "static/js/2.6dbb14c9.chunk.js.LICENSE.txt": "/static/js/2.6dbb14c9.chunk.js.LICENSE.txt",
+    "static/media/SSJ.c96a0838.JPG": "/static/media/SSJ.c96a0838.JPG",
+    "static/media/about.7fc8c819.jpg": "/static/media/about.7fc8c819.jpg",
+    "static/media/apple.3552c3a8.png": "/static/media/apple.3552c3a8.png",
+    "static/media/ecstacycover.e0dfd4f5.jpeg": "/static/media/ecstacycover.e0dfd4f5.jpeg",
+    "static/media/instalogo.8b8f8ecb.png": "/static/media/instalogo.8b8f8ecb.png",
+    "static/media/joel.1f3b2651.JPG": "/static/media/joel.1f3b2651.JPG",
+    "static/media/joelcontact.77c47926.jpeg": "/static/media/joelcontact.77c47926.jpeg",
+    "static/media/spotify.2a98654e.png": "/static/media/spotify.2a98654e.png",
+    "static/media/twitter.09e8962c.png": "/static/media/twitter.09e8962c.png",
+    "static/media/wyacover.b9ae1da0.jpeg": "/static/media/wyacover.b9ae1da0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c37f22f4.js",
+    "static/js/2.6dbb14c9.chunk.js",
+    "static/css/main.1cc27e62.chunk.css",
+    "static/js/main.cab02ed3.chunk.js"
+  ]
+}
