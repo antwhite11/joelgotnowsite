@@ -46,7 +46,7 @@ function Header(){
     
 return(
 
-    <nav className="navbar navbar-expand-lg" style={bgstyle}>
+    <nav className="navbar navbar-expand-lg container-fluid" style={bgstyle}>
        
         
             <span className ="navbar-brand mb-0" style={fontBig}>
