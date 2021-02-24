@@ -1,0 +1,96 @@
+.songTitles{
+
+    text-align: center;
+    margin-top: 40px;
+    font-size: 50px;
+
+
+}
+
+.outNow{
+
+text-align: center;
+margin-top: 8px;
+font-style: italic;
+
+
+}
+
+.titlesContainer{
+
+margin-top: 50px
+}
+
+.ecsSize{
+
+height: 400px;
+width: 400px
+
+
+
+}
+
+
+.ecsCover{
+
+    text-align: center;
+    margin-top: 33px
+}
+
+
+.ecsMarg{
+
+margin-left: 150px
+
+
+}
+
+.musicIcons{
+
+height: 75px;
+width: 120px;
+margin-left: 8px;
+
+
+
+}
+
+
+.musicIcons2{
+
+    height: 50px;
+    width: 50px;
+    margin-top: 15px;
+    margin-left: 8px
+
+
+}
+
+
+.iconsMarg{
+
+margin-left: 490px
+
+
+}
+
+.iconsRow{
+
+margin-top: 20px
+}
+
+.followText {
+
+text-align: center;
+margin-top: 50px ;
+font-style: italic;
+
+
+}
+
+.iconsBottom{
+
+margin-bottom: 50px;
+
+
+}

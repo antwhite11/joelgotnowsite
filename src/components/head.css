@@ -1,0 +1,52 @@
+.mbottom {
+
+margin-bottom: 5px ;
+font-weight: bold;
+
+
+}
+
+.fontStyle{
+
+font-family: Arial, Helvetica, sans-serif
+}
+
+
+.mleft{
+
+margin-left: 100px
+
+
+}
+
+
+
+.imageEdit{
+
+width: 105%;
+height: 25%;
+
+
+
+
+
+}
+
+.scrollable{
+
+max-height: 692px;
+overflow-y: scroll;
+
+}
+
+.my-row :last-child{
+    float:right;
+ }
+
+ .container {
+    padding-left: 0px  !important;
+    padding-right: 0px !important;
+}
+
+
+
