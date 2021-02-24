@@ -8,12 +8,12 @@ import Contact from "./pages/contact.js"
 function App() {
   return (
    <Router>
-     <Route exact path="/">
+     <Route path="/">
       <Mainpage></Mainpage>
     </Route>
 
-    <Route exact path ="/about"> <About></About> </Route>  
-    <Route exact path ="/contact"><Contact></Contact></Route>
+    <Route path ="/about"> <About></About> </Route>  
+    <Route path ="/contact"><Contact></Contact></Route>
   </Router>
   );
 }
